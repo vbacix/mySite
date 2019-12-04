@@ -1,0 +1,5 @@
+!.gitingnore
+#FOLDERS
+.idea
+#FILES
+.DS_Store
